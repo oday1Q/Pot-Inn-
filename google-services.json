@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466322894273",
+    "project_id": "pott-in",
+    "storage_bucket": "pott-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466322894273:android:ce82a8137e1dc60ea09340",
+        "android_client_info": {
+          "package_name": "com.example.pot_inn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466322894273-25e0pk8b7ucqdmftkutacvavhame5f56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAda-Zv0ut4wt0ORyDeIoII348o3KCUpPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466322894273-25e0pk8b7ucqdmftkutacvavhame5f56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
